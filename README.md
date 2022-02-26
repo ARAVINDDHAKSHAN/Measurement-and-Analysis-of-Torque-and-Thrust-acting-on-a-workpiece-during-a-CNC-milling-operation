@@ -1,0 +1,1 @@
+# Measurement-and-Analysis-of-Torque-and-Thrust-acting-on-a-workpiece-during-a-CNC-milling-operation
